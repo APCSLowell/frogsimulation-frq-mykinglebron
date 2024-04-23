@@ -43,7 +43,7 @@ public class FrogSimulation
 		
 	return success/num;
 	}
-}
+
 	
 	//ignore the code below this line
 	//-------------------------------------------------------------------------------------
